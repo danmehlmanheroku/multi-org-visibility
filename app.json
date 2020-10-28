@@ -2,6 +2,6 @@
     "name": "multi-org-visibility",
     "description": "template provisioning add-ons",
     "addons": ["heroku-postgresql:hobby-dev",
-               "heroku-connect:demo",
-               "heroku-connect:demo"]
+               "herokuconnect:demo",
+               "herokuconnect:demo"]
 }
