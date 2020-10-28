@@ -1,6 +1,7 @@
 {
     "name": "multi-org-visibility",
     "description": "template provisioning add-ons",
+    "buildpack": "heroku/nodejs",
     "addons": ["heroku-postgresql:hobby-dev",
                "herokuconnect:demo",
                "herokuconnect:demo"]
