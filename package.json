@@ -1,6 +1,6 @@
 {
   "name": "multi-org-visibility",
-  "version": "0.1",
+  "version": "0.2.5",
   "description": "A sample Node.js app using Express 4",
   "engines": {
     "node": "5.9.1"
