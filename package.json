@@ -1,0 +1,9 @@
+{
+  "name": "multi-org-visibility",
+  "version": "0.1",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "license": "MIT"
+}
